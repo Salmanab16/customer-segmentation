@@ -1,4 +1,4 @@
-# customer-segmentation
+# Customer Segmentation - Final Project Studi Independen Kampus Merdeka 
 
 This project named "Global Superstore - Customer Segmentation". We use data global superstore as our raw data and make new dataset which is data_cluster. Through this final project, we process and analyze datasets starting from doing business understanding, data understanding, data cleaning, data preparation, modeling, to deployment. We use the K-Meas Clustering algorithm to analyze and classify customers into 4 different clusters based on their Recension, Order Date, Spending Money, and Generated Profit values. The purpose of this clustering is as a reference in providing insights or recommendations that are useful as a decision aid for a company to further develop in the future.
 
